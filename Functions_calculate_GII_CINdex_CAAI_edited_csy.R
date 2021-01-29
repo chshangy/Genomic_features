@@ -6,6 +6,11 @@
 ##input segment
 #6 columns: SampleName, chr, startpos, endpos, nMajor, nMinor
 
+
+library(dplyr)
+library(magrittr)
+library(carma)
+
 ###################################################################
 ##	GII
 ###################################################################
